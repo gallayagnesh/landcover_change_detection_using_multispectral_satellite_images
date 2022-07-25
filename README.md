@@ -21,7 +21,7 @@
  ### Data Collection
   - Download Landsat-8 Collection-1 Level-1 Bands images, MTL and XML files from USGS Website of two different timelines.
   
-### Image Preprocessing
+## Image Preprocessing
   - Add band images of one timeline in the Layers and crop the selected area in *Crop Raster* which is available in SCP dropdown.
   - Apply reflectance to the band images and make sure that you select the landsat-8 collection in the reflectance tab.
   - Download the required band composition by adjusting the bands combination.
@@ -29,5 +29,7 @@
   - Repeat the same process for the other timeline image.
   for more info, [watch this video](https://www.youtube.com/watch?v=HKNS-wsc7lo) 
   
-### Change Detection
+## Change Detection
  Given Python notebook file takes two image files as inputs. Run the blocks of code accordingly to see the reults. After the generating the erode image, shape the erode image for the evalution.
+
+![Architecture Diagram](https://github.com/gallayagnesh/landcover_change_detection_using_multispectral_satellite_images/blob/main/Architecture.png)

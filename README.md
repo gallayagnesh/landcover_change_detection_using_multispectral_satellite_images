@@ -1,0 +1,1 @@
+# landcover_change_detection_using_multispectral_satellite_images

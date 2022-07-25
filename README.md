@@ -28,4 +28,4 @@
   for more info, [watch this video](https://www.youtube.com/watch?v=HKNS-wsc7lo) 
   
 ### Change Detection
- Given Python notebook file takes two image files as inputs. Run the blocks of code accordingly to see the reults. After the generating the erode image, shape that image for the evalution.
+ Given Python notebook file takes two image files as inputs. Run the blocks of code accordingly to see the reults. After the generating the erode image, shape the erode image for the evalution.

@@ -31,5 +31,5 @@
   
 ## Change Detection
  Given Python notebook file takes two image files as inputs. Run the blocks of code accordingly to see the reults. After the generating the erode image, shape the erode image for the evalution.
-
+## Architecture Diagram
 ![Architecture Diagram](https://github.com/gallayagnesh/landcover_change_detection_using_multispectral_satellite_images/blob/main/Architecture.png)

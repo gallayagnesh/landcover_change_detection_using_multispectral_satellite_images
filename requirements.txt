@@ -1,0 +1,5 @@
+numpy>=1.19.3
+opencv-python
+scikit-learn
+scikit-image
+-scipy

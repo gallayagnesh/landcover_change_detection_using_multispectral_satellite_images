@@ -10,8 +10,9 @@
 
 ### Installation
  - Clone this repo:
-
-    git clone https://github.com/gallayagnesh/landcover_change_detection_using_multispectral_satellite_images
+            
+       git clone https://github.com/gallayagnesh/landcover_change_detection_using_multispectral_satellite_images
+       cd landcover_change_detection_using_multispectral_satellite_images
  - Install Python Depedencies
      - For pip users, please type the command 	```pip install -r requirements.txt```.
      - For Conda users, you can create a new Conda environment using ```conda env create -f environment.yml```.
